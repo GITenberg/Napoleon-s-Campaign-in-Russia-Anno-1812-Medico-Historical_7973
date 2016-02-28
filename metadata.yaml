@@ -1,0 +1,28 @@
+_repo: Napoleon-s-Campaign-in-Russia-Anno-1812-Medico-Historical_7973
+creator:
+  author:
+    agent_name: Rose, Achilles
+    birthdate: 1839
+    deathdate: 1916
+    gutenberg_agent_id: '2606'
+    url: http://www.gutenberg.org/2009/agents/2606
+description: ''
+gutenberg_bookshelf:
+- Napoleonic(Bookshelf)
+- France
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7973'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Campaigns -- Russia'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Military leadership'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Campaigns -- Russia -- Medical and sanitary
+  affairs'
+title: Napoleon's Campaign in Russia, Anno 1812; Medico-Historical
+url: http://www.gutenberg.org/ebooks/7973
