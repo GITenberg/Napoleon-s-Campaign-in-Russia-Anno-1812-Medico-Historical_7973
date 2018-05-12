@@ -1,4 +1,8 @@
 _repo: Napoleon-s-Campaign-in-Russia-Anno-1812-Medico-Historical_7973
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rose, Achilles
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '2606'
     url: http://www.gutenberg.org/2009/agents/2606
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7973#Napoleon-s-Campaign-in-Russia-Anno-1812-Medico-Historical
 gutenberg_bookshelf:
 - Napoleonic(Bookshelf)
 - France
